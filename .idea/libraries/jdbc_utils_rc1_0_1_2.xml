@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc-utils-rc1-0.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jdbc-utils-rc1-0.1.2-bin/dist/jdbc-utils-rc1-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
