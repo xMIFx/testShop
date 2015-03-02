@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/../StoreHouse1_0/StoreHouse1_0.iml" filepath="$PROJECT_DIR$/../StoreHouse1_0/StoreHouse1_0.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/testShop.iml" filepath="$PROJECT_DIR$/testShop.iml" />
+>>>>>>> parent of daf95c0... Revert "new"
     </modules>
   </component>
 </project>

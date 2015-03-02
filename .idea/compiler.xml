@@ -23,11 +23,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+<<<<<<< HEAD
         <module name="StoreHouse1_0" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="StoreHouse1_0" target="1.8" />
+=======
+        <module name="testShop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testShop" target="1.8" />
+>>>>>>> parent of daf95c0... Revert "new"
     </bytecodeTargetLevel>
   </component>
 </project>
